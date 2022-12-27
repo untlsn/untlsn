@@ -12,3 +12,10 @@
 * Vue3 instead of Vue2
 * Dayjs instead of momentjs
 * TypeScript
+* vitest instead of jest
+
+## My templates
+- React - https://github.com/untlsn/react__TEMPLATE
+- Solid - https://github.com/untlsn/solid__TEMPLATE
+- Vue - https://github.com/untlsn/vue__TEMPLATE
+
